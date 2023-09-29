@@ -11,7 +11,8 @@ Html Tags and Hyperlink
 
 ### Activities
 Acitivity 1
-
+Activity 2
+Actvity 3
 #### Members
 - Jiron V. Niemo
 - Mariseph Frades
