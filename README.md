@@ -4,8 +4,8 @@
 Html Tags and Hyperlink
 
 ## Description
-💻: Group Laboratory Activity in Web System and Technologies
-Bachelor of Science in Information Technology
+💻: Group Laboratory Activity in Web System and Technologies <br>
+Bachelor of Science in Information Technology <br>
 Professor: Anthony Gacis
 
 ### Activities
