@@ -4,8 +4,9 @@
 Html Tags and Hyperlink
 
 ## Description
-💻: Laboratory Activity in Web System and Technologies
-Including Html Tags and Hyperlink
+💻: Group Laboratory Activity in Web System and Technologies
+Bachelor of Science in Information Technology
+Professor: Anthony Gacis
 
 ### Activities
 Acitivity 1
